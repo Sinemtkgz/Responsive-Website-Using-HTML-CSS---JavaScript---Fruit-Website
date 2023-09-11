@@ -103,6 +103,7 @@ img {
   background-color: var(--body-color);
   z-index: var(--z-fixed);
   transition: box-shodow .4s, background-color 4s;
+  height:100px
 }
 
 .nav {
